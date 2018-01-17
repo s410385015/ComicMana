@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ComicMana.iml" filepath="$PROJECT_DIR$/ComicMana.iml" />
+      <module fileurl="file://D:\0118\ComicMana-master\ComicMana.iml" filepath="D:\0118\ComicMana-master\ComicMana.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
